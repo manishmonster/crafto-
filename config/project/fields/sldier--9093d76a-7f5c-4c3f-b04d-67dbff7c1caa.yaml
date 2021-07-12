@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 199d737e-21bf-422e-ac1d-f73765594ce5 # Slider
+handle: sldier
+instructions: ''
+name: Sldier
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

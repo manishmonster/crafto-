@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: slider
+name: Slider
+propagationMethod: all
+siteSettings:
+  a63c4fac-53e5-4a0c-b37a-d2eb3a5c1f08: # Single Page
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+type: channel
